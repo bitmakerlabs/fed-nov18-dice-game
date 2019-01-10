@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+}
+
+.roll {
+  font-size: 5em;
+  line-height: 3;
+}
+
+.dice {
+  width: 20em;
+  height: 20em;
+  border: 5px solid black;
+  border-radius: 1em;
+}
